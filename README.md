@@ -13,3 +13,10 @@ Throughout the project, you’ll be able to explore the advantages and disadvant
 By the end of this practice project, you will have improved your skills in styling React applications using various techniques and gained a deeper understanding of the different approaches. You will be able to apply your learnings to future React projects and improve your coding skills!
 
 Let’s roll up our sleeves and start!
+
+
+link to video walkthrough:
+
+Learn React Rock, Paper, Scissors
+
+https://www.youtube.com/watch?v=sthBT_WSukw
