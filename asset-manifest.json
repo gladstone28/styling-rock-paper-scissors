@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/styling-rock-paper-scissors/static/css/main.470364a7.css",
+    "main.js": "/styling-rock-paper-scissors/static/js/main.18a6bdee.js",
+    "index.html": "/styling-rock-paper-scissors/index.html",
+    "main.470364a7.css.map": "/styling-rock-paper-scissors/static/css/main.470364a7.css.map",
+    "main.18a6bdee.js.map": "/styling-rock-paper-scissors/static/js/main.18a6bdee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.470364a7.css",
+    "static/js/main.18a6bdee.js"
+  ]
+}
